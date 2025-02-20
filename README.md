@@ -33,7 +33,7 @@ I completed my **Programming Technician degree at UTN in Argentina**.
 ### 📫 Contact Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-ruiz-dev/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiasruiz94m@gmail.com)  
 [matiasruiz94m@gmail.com]  
- * some deploys may not work as intended due to expiring free usage pages
+ * some deploys may not work as intended due to expiring free host pages
 
 
 
