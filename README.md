@@ -2,7 +2,7 @@
 
 My name is Matias Ruiz, and I'm a Full Stack Developer specialized in **React.js, .NET 8, and MySQL**.  
 I completed my **Programming Technician degree at UTN in Argentina**.  
-🎮 Currently working with a teammate on a **[personal web app for reviewing video games](https://github.com/Ignacioff56/Review_App)**. 🎮  
+🎮 Currently working with a teammate on a **personal web app for reviewing video games**. 🎮  
 
 ### 🚀 About Me  
 - 💻 Passionate about web development and always eager to learn new technologies.  
