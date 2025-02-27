@@ -7,7 +7,7 @@ I completed my **Programming Technician degree at UTN in Argentina**.
 ### 🚀 About Me  
 - 💻 Passionate about web development and always eager to learn new technologies.  
 - ⚙️ Experienced in building **RESTful APIs**, authentication systems, and front-end applications.  
-- 🚀 Participated in **three group projects**, including my [final project](https://github.com/BrunoCMenna/ecommerce-frontend) for my programming course, No-Country's [work simulation](https://github.com/No-Country-simulation/C23-88-T-WebApp.git) and the [Review App] (review-app-woad.vercel.app).  
+- 🚀 Participated in **three group projects**, including my [final project](https://github.com/BrunoCMenna/ecommerce-frontend) for my programming course, No-Country's [work simulation](https://github.com/No-Country-simulation/C23-88-T-WebApp.git) and the [Review App](review-app-woad.vercel.app).  
 
 ### 🛠️ Tech Stack  
 #### Frontend  
